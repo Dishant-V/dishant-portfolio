@@ -114,7 +114,7 @@ The built files will be in the `dist` directory.
 - Email: dishantvaswani7@gmail.com
 - LinkedIn: [linkedin.com/in/dishant-vaswani](https://www.linkedin.com/in/dishant-vaswani/)
 - GitHub: [github.com/Dishant-V](https://github.com/Dishant-V)
-- Portfolio: [dishants-portfolio-ykm5.onrender.com](https://dishants-portfolio-ykm5.onrender.com/)
+
 
 ## 🙏 Acknowledgments
 
